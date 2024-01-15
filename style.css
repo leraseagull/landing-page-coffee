@@ -147,7 +147,7 @@ body {
 .main__triangle {
     position: absolute;
     z-index: -1;
-    background-image: url("./img/Polygon 2.png");
+    background-image: url("./img/Polygon 2.svg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 117px;
@@ -159,7 +159,7 @@ body {
 .main__triangle_two {
     position: absolute;
     z-index: -1;
-    background-image: url("./img/Polygon 2.png");
+    background-image: url("./img/Polygon 2.svg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 117px;
